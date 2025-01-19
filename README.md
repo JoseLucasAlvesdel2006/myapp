@@ -1,6 +1,6 @@
 # my app layout
 
-A new Flutter project.
+A project created for the school curriculum
 
 ## Getting Started
 
